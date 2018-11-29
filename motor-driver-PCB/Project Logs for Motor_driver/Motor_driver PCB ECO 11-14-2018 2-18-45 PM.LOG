@@ -1,0 +1,25 @@
+Added Component: Designator=P5(DC power connector)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Barrel Inner Diameter"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barrel Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barrel Outer Diameter"; Value = "6.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1864271.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1864271.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Mounting"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Termination Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cliff"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FC68148S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Diameter"; Value = "2.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1889309"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (17-Dec-2015)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=P5-1
+Added Pin To Net: NetName=+12V Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Member To Class: ClassName=PAGE2-Motor_driver-PCB Member=Component P5 FC68148S

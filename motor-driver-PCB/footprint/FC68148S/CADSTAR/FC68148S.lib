@@ -1,0 +1,17 @@
+.FC68148S :1 ;CLIFF ELECTRONIC COMPONENTS - FC68148S - DC  SOCKET, SMD, DC-10AS, 2.1MM PIN
+FC68148S_2
+*STM J
+*NGS
+*PLB 1="1_1" 2="1_2" 3="2" 4="3"
+*MXP 6
+*DFN FC68148S
+~!Manufacturer_Name (CLIFF ELECTRONIC COMPONENTS)
+~!Manufacturer_Part_Number (FC68148S)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Arrow Part Number (FC68148S)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.cliffuk.co.uk/products/dcconnectors/FC68148S.pdf)
+~!Height (-)
+FC68148S
+1.1!U 3.1!U 2.1!U 4.1!U 

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=STP Pin=R2-2
+Removed Pin From Net: NetName=DIR Pin=R4-2
+Removed Pin From Net: NetName=E_SW1-1 Pin=R7-2
+Removed Pin From Net: NetName=E_SW1-2 Pin=R9-2
+Removed Member From Class: ClassName=Motor_driver-PCB Member=R2
+Removed Member From Class: ClassName=Motor_driver-PCB Member=R4
+Removed Member From Class: ClassName=Motor_driver-PCB Member=R7
+Removed Member From Class: ClassName=Motor_driver-PCB Member=R9
+Added Pin To Net: NetName=STP Pin=R14-2
+Added Pin To Net: NetName=DIR Pin=R15-2
+Added Pin To Net: NetName=E_SW1-1 Pin=R19-2
+Added Pin To Net: NetName=E_SW1-2 Pin=R20-2
